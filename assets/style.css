@@ -1,0 +1,37 @@
+.navbar{
+    height: 60px;
+    border-bottom: solid;
+}
+
+
+.navbar-brand {
+    padding: 20px;
+    background: #4aaaa5;
+    letter-spacing: 1px;
+}
+
+.body {
+    background: #777777;
+}
+
+.nav-item {
+    border-right: solid;
+    letter-spacing: 2px;
+}
+
+.row {
+    padding: 20px;
+}
+
+.jumbotron {
+    position: relative;
+    top: 20px;
+    border-style: outset;
+}
+
+.page-footer {
+    background: #ffffff;
+    position: relative;
+    top: 20px;
+    border-top: solid;
+}
